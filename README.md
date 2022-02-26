@@ -1,5 +1,5 @@
 # Asymmetric encryption - An example implementation in Laravel
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f07cfeaf9c904ab380658a25bc4181fe)](https://www.codacy.com/gh/nrgribeiro/async-encrypt-laravel/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nrgribeiro/async-encrypt-laravel&amp;utm_campaign=Badge_Grade)
 ## Introduction
 This project is meant to be a usage example of asymmetric encryption using public key encription.
 It was created as a demo for this article: [Asymmetric encryption: a JavaScript and PHP example](https://medium.com/p/4cf9d5f95d7d/edit)
